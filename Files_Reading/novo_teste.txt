@@ -1,0 +1,3 @@
+Teste na escrita de aquivos com python
+novo teste
+teste final.
