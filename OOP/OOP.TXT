@@ -1,0 +1,15 @@
+A programação orientada a objeto é um dos 3 paradigmas da programação moderna. 
+O python é uma liguagem moderna e de multi utilização, podendo ser utilizada tanto para
+orientação a objeto quanto para programação estruturada. 
+
+A orientação a objeto é uma forma de trazer o mundo real para a programação.
+mapeamos objetos do mundo real e utilizamos como metodologia para desenvolver sistemas.
+
+Temos uma classe, que nada mais é do que o objeto em si, seus metodos e seus atributos.
+
+A classe é o molde, o modelo do mundo real. 
+Os atributos da classe são os seus atributos que nada mais são do que as caracteristicas do objeto.
+Os metodos nada mais são do que como a classe se comporta, o que ela pode fazer.
+O metodo nada mais é do que uma função dentro de uma classe
+Um construtor é um metodo especial utilizado para criar objetos.
+Os objetos são instancias que são criados a partir da classe.
