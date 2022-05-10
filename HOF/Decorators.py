@@ -9,6 +9,16 @@ São funções que trabalham em cima de outras funções as aperfeiçoando
     - Para decorarmos ums função basta chamar o decorator acima da função a ser decorada com um @
     - Devemos pensar no decorar como embelezar, melhorar, aperfeiçoar. Não como em memorizar.
 
+Decorators são e devem ser muito utilizados.
+
+Sua utilizada está principalmente na facilidade de criar uma função que pode aprimorar qunatas outras o
+desenvolvedor quiser. 
+
+Por exeplo, o decorator poderia ser uma função que valida se o usuário tem acesso a determinada área do site
+e, caso o teste logicofor False redirecione o usuário para outro lugar. 
+Fazendo o decorator com esses parametros, caso mude algo na politica da empresa, basta aplicarmos o decorator
+para as novas areas protegidas.
+
 """
 
 def saudar(funtion): # a decorator sempre vai receber outra função como parametro
