@@ -42,4 +42,5 @@ class Carro:
 
 
 # Atributos de instacia são os atributo que fazem parte de todas as instacias da classe, pois foram definidos
-# no metodo construtor.
+# no metodo construtor. No momento da criação da instância apenas as declaramos. Os atributos dos objetos /
+# instancia seram os mesmo, porém, os valores desses atributos serão diferentes para cada um.
